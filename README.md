@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### GitHub Stats :octocat:
+
+<div style="display:grid; gap:1rem;">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=chateaua&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme.swayechateau.com/api?username=chateauau&show_icons=true&count_private=true&theme=dark" />
+</a>
+<!--
+# if you have wakatime
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme.swayechateau.com/api/wakatime?username=chateaua&theme=dark" />
+</a>
+-->
+</div>
