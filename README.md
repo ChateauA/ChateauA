@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=chateaua&layout=compact&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme.swayechateau.com/api?username=chateauau&show_icons=true&count_private=true&theme=dark" />
+  <img align="center" src="https://github-readme.swayechateau.com/api?username=chateaua&show_icons=true&count_private=true&theme=dark" />
 </a>
 <!--
 # if you have wakatime
